@@ -77,11 +77,12 @@ I'm looking forward to diving deeper into **systems programming, performance, an
 ![C++ (Learning Next)](https://img.shields.io/badge/C%2B%2B-To%20Learn-282235?style=for-the-badge&logo=cplusplus&logoColor=FACC15)
 ![Rust (Learning Next)](https://img.shields.io/badge/Rust-To%20Learn-282235?style=for-the-badge&logo=rust&logoColor=FACC15)
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="175" alt="Daniel's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=FlynnOfficial&show_icons=true&include_all_commits=true&bg_color=171321&title_color=FACC15&text_color=E9D5FF&icon_color=A855F7&border_color=6D28D9&border_radius=10" />
-  <img height="175" alt="Most used languages across public GitHub repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlynnOfficial&layout=compact&langs_count=8&bg_color=171321&title_color=FACC15&text_color=E9D5FF&border_color=6D28D9&border_radius=10" />
+  <img height="175" alt="Daniel's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=FlynnOfficial&show_icons=true&include_all_commits=true&bg_color=171321&title_color=FACC15&text_color=E9D5FF&icon_color=A855F7&border_color=6D28D9&border_radius=10" />
+  <img height="175" alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=FlynnOfficial&layout=compact&langs_count=8&bg_color=171321&title_color=FACC15&text_color=E9D5FF&border_color=6D28D9&border_radius=10" />
 </div>
 
 <sub>Language statistics reflect code in public repositories, not overall proficiency.</sub>
