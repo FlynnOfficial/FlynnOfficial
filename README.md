@@ -14,7 +14,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:contato@cursedinkstudios.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20touch-FACC15?style=for-the-badge&logo=gmail&logoColor=171321" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-contato%40cursedinkstudios.com-FACC15?style=for-the-badge&logo=gmail&logoColor=171321" />
   </a>
 </div>
 
