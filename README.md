@@ -16,6 +16,9 @@
   <a href="mailto:contato@cursedinkstudios.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-contato%40cursedinkstudios.com-FACC15?style=for-the-badge&logo=gmail&logoColor=171321" />
   </a>
+  <a href="https://flynn.cursedinkstudios.com">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </div>
 
 ---
@@ -28,6 +31,7 @@
 - 🧠 Always chasing new knowledge, from application development to low-level programming.
 - 🎮 Interested in **game development**, 3D tools, and creative software projects.
 - 🤝 Open to collaborating on ambitious, unconventional, and completely crazy ideas.
+- 🌐 Check out my personal portfolio: **[flynn.cursedinkstudios.com](https://flynn.cursedinkstudios.com)**.
 
 > *Curiosity is my favorite reason to start a project.*
 
@@ -77,7 +81,6 @@ I'm looking forward to diving deeper into **systems programming, performance, an
 ![C++ (Learning Next)](https://img.shields.io/badge/C%2B%2B-To%20Learn-282235?style=for-the-badge&logo=cplusplus&logoColor=FACC15)
 ![Rust (Learning Next)](https://img.shields.io/badge/Rust-To%20Learn-282235?style=for-the-badge&logo=rust&logoColor=FACC15)
 
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -91,6 +94,7 @@ I'm looking forward to diving deeper into **systems programming, performance, an
 
 Have an interesting project, a technical challenge, or an idea that sounds a little impossible? **I'd love to hear about it.**
 
+- **Portfolio:** [flynn.cursedinkstudios.com](https://flynn.cursedinkstudios.com)
 - **GitHub:** [@FlynnOfficial](https://github.com/FlynnOfficial)
 - **LinkedIn:** [Daniel Ferriani de Chico](https://www.linkedin.com/in/daniel-ferriani-de-chico/)
 - **Email:** [contato@cursedinkstudios.com](mailto:contato@cursedinkstudios.com)
